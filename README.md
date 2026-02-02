@@ -8,7 +8,7 @@ The full dataset can be downloaded at this <a href="https://www.dropbox.com/scl/
 REFERENCE:
 ==========
 
-If you use NoR-VDPNet in your work, please cite it using this reference:
+If you use our dataset in your work, please cite it using this reference:
 
 ```
 @inproceedings{PBDCB243DGS,
